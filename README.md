@@ -28,6 +28,9 @@ A simple QR code generator that converts user text/URLs into a scannable QR code
 - Add copy-to-clipboard and share options  
 - Server-side generation for higher-res images
 
+## 🚀 Live Demo  
+[*View the Project Here*](https://yashalll12.github.io/QR-code-generator/)
+
 ## 🙋‍♀️ Author
 - Created by [Yashal Naeem Ahmed]
 
